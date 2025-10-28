@@ -8,7 +8,7 @@ import fs from "node:fs/promises"
 import { CreateMessageResultSchema } from "@modelcontextprotocol/sdk/types.js"
 
 const server = new McpServer({
-  name: "test-video",
+  name: "test-server",
   version: "1.0.0",
   capabilities: {
     resources: {},

@@ -13,7 +13,7 @@ import { generateText, jsonSchema, ToolSet } from "ai"
 
 const mcp = new Client(
   {
-    name: "text-client-video",
+    name: "test-client",
     version: "1.0.0",
   },
   { capabilities: { sampling: {} } }
