@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tqmvt-mcp-server-n-client-badge.png)](https://mseep.ai/app/tqmvt-mcp-server-n-client)
+
 # Test MCP Server
 
 A Model Context Protocol (MCP) server for managing user data with support for resources, tools, and prompts.
